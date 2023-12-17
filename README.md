@@ -50,13 +50,12 @@ def max_marks(list1):
     return max
 
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
 
 ## Output:
-![OUTPUT](image.png)
-![OUTPUT](image-1.png)
-![OUTPUT](image-2.png)
+![Screenshot 2023-12-17 083429](https://github.com/priyadharshini210/FindMaximum/assets/148514638/0102c778-643d-4edd-a4ae-35009ce69a7e)
+![Screenshot 2023-12-17 083518](https://github.com/priyadharshini210/FindMaximum/assets/148514638/ae7b8ad5-81a5-4722-8923-913d6fec88fb)
+![Screenshot 2023-12-17 083600](https://github.com/priyadharshini210/FindMaximum/assets/148514638/1f382aa9-53c9-44d3-a8f8-4d8916a51661)
+
 
 
 ## Result:
