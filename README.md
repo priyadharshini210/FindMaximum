@@ -39,8 +39,8 @@ def max_marks(marks):
 iii) # to find the maximum marks without using builtin functions.
 ```
 Program to the maximum marks without using builtin functions.
-Developed by: 
-RegisterNumber: 
+Developed by: Priyadharshini.P
+RegisterNumber: 23013604
 
 def max_marks(list1):
     max=0
@@ -52,8 +52,11 @@ def max_marks(list1):
 ```
 
 ## Output:
+i)	# To find the maximum of marks using the list method sort
 ![Screenshot 2023-12-17 083429](https://github.com/priyadharshini210/FindMaximum/assets/148514638/0102c778-643d-4edd-a4ae-35009ce69a7e)
+ii)	# To find the maximum marks using the list method max().
 ![Screenshot 2023-12-17 083518](https://github.com/priyadharshini210/FindMaximum/assets/148514638/ae7b8ad5-81a5-4722-8923-913d6fec88fb)
+iii) # to find the maximum marks without using builtin functions.
 ![Screenshot 2023-12-17 083600](https://github.com/priyadharshini210/FindMaximum/assets/148514638/1f382aa9-53c9-44d3-a8f8-4d8916a51661)
 
 
